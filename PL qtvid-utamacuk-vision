@@ -1,0 +1,959 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ National TV V+" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-l.png" ch-number="1", RCTI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=1&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=1&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ National TV V+" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-l.png" ch-number="2", MNC TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=2&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=2&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ National TV V+" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-l.png" ch-number="3", GTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=3&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=3&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ National TV V+" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-l.png" ch-number="4", iNews
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=4&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=4&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ National TV V+" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-l.png" ch-number="6", Trans TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=6&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=6&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ National TV V+" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-l.png" ch-number="7", Trans 7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=7&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=7&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ National TV V+" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-l.png" ch-number="10", ANTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=10&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=10&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ National TV V+" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-l.png" ch-number="11", RTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=11&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=11&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ News V+" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-l.png" ch-number="12", TV One
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=12&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=12&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ National TV V+" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-l.png" ch-number="13", Kompas TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=13&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=13&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ National TV V+" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-l.png" ch-number="14", Metro TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=14&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=14&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ National TV V+" tvg-logo="https://www.visionplus.id/images/repository/357/273357-LOGO-l.png" ch-number="15", BTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=15&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=15&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ National TV V+" tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-l.png" ch-number="16", TVRI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=16&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=16&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ National TV V+" tvg-logo="https://www.visionplus.id/images/repository/594/594-LOGO-l.png" ch-number="17", SEA TODAY
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=17&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=17&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ National TV V+" tvg-logo="https://www.visionplus.id/images/repository/595/595-LOGO-l.png" ch-number="18", DAAI TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=18&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=18&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ National TV V+" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-l.png" ch-number="23", MD TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=23&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=23&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ National TV V+" tvg-logo="https://www.visionplus.id/images/repository/856/856-LOGO-l.png" ch-number="24", JTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=24&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=24&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ National TV V+" tvg-logo="https://www.visionplus.id/images/repository/598/598-LOGO-l.png" ch-number="25", JAK TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=25&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=25&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ National TV V+" tvg-logo="https://www.visionplus.id/images/repository/599/599-LOGO-l.png" ch-number="26", Bali TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=26&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=26&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ National TV V+" tvg-logo="https://www.visionplus.id/images/repository/600/600-LOGO-l.png" ch-number="27", Bandung TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=27&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=27&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Religion V+" tvg-logo="https://www.visionplus.id/images/repository/601/601-LOGO-l.png" ch-number="28", TV 9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=28&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=28&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Religion V+" tvg-logo="https://www.visionplus.id/images/repository/602/602-LOGO-l.png" ch-number="29", Tawaf
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=29&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=29&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Religion V+" tvg-logo="https://www.visionplus.id/images/repository/603/603-LOGO-l.png" ch-number="30", TVMU
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=30&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=30&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Movies V+" tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-l.png" ch-number="36", Originals
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=36&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=36&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Movies V+" tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-l.png" ch-number="37", Buddy Stars
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=37&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=37&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Movies V+" tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-l.png" ch-number="38", Uniques
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=38&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=38&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Movies V+" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png" ch-number="39", Superrix
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=39&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=39&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Movies V+" tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-l.png" ch-number="40", Cinneedge
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=40&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=40&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Movies V+" tvg-logo="https://www.visionplus.id/images/repository/609/609-LOGO-l.png" ch-number="41", Thrill
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=41&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=41&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Movies V+" tvg-logo="https://www.visionplus.id/images/repository/610/610-LOGO-l.png" ch-number="42", Hits Movies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=42&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=42&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Movies V+" tvg-logo="https://www.visionplus.id/images/repository/612/612-LOGO-l.png" ch-number="44", Celestial Movies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=44&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=44&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Movies V+" tvg-logo="https://www.visionplus.id/images/repository/613/613-LOGO-l.png" ch-number="45", CCM
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=45&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=45&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Movies V+" tvg-logo="https://www.visionplus.id/images/repository/614/614-LOGO-l.png" ch-number="46", TVN Movies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=46&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=46&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Movies V+" tvg-logo="https://www.visionplus.id/images/repository/615/615-LOGO-l.png" ch-number="47", Zee Bioskop
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=47&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=47&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Movies V+" tvg-logo="https://www.visionplus.id/images/repository/616/616-LOGO-l.png" ch-number="48", GALAXY PREMIUM
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=48&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=48&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Movies V+" tvg-logo="https://www.visionplus.id/images/repository/617/617-LOGO-l.png" ch-number="49", GALAXY
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=49&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=49&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Movies V+" tvg-logo="https://www.visionplus.id/images/repository/342/10342-LOGO-l.png" ch-number="50", IMC (Indonesia Movie Channel)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=50&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=50&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Movies V+" tvg-logo="https://www.visionplus.id/images/repository/114/345114-LOGO-l.png" ch-number="54", Studio Universal
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=54&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=54&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Kids V+" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-l.png" ch-number="56", Kids TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=56&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=56&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Kids V+" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-l.png" ch-number="57", Moonbug
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=57&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=57&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Kids V+" tvg-logo="https://www.visionplus.id/images/repository/624/624-LOGO-l.png" ch-number="58", Cbeebies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=58&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=58&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Kids V+" tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-l.png" ch-number="60", Nick Jr
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=60&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=60&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Kids V+" tvg-logo="https://www.visionplus.id/images/repository/626/626-LOGO-l.png" ch-number="63", Zoo Moo
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=63&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=63&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Kids V+" tvg-logo="https://www.visionplus.id/images/repository/627/627-LOGO-l.png" ch-number="64", Nick
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=64&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=64&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Entertainment V+" tvg-logo="https://www.visionplus.id/images/repository/628/628-LOGO-l.png" ch-number="65", Animax
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=65&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=65&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ National TV V+" tvg-logo="https://www.visionplus.id/images/repository/630/630-LOGO-l.png" ch-number="67", DREAMWORKS 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=67&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=67&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Entertainment V+" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-l.png" ch-number="71", Food Travel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=71&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=71&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Entertainment V+" tvg-logo="https://www.visionplus.id/images/repository/632/632-LOGO-l.png" ch-number="72", Entertainment
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=72&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=72&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Entertainment V+" tvg-logo="https://www.visionplus.id/images/repository/633/633-LOGO-l.png" ch-number="73", TVN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=73&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=73&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Entertainment V+" tvg-logo="https://www.visionplus.id/images/repository/634/634-LOGO-l.png" ch-number="74", One
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=74&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=74&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Entertainment V+" tvg-logo="https://www.visionplus.id/images/repository/635/635-LOGO-l.png" ch-number="75", Kix
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=75&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=75&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Entertainment V+" tvg-logo="https://www.visionplus.id/images/repository/636/636-LOGO-l.png" ch-number="76", NHK World Premium
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=76&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=76&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Entertainment V+" tvg-logo="https://www.visionplus.id/images/repository/637/637-LOGO-l.png" ch-number="77", Hits
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=77&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=77&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Entertainment V+" tvg-logo="https://www.visionplus.id/images/repository/638/638-LOGO-l.png" ch-number="79", AXN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=79&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=79&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Knowledge V+" tvg-logo="https://www.visionplus.id/images/repository/639/639-LOGO-l.png" ch-number="80", Lifetime
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=80&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=80&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Entertainment V+" tvg-logo="https://www.visionplus.id/images/repository/641/641-LOGO-l.png" ch-number="87", Vision Prime
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=87&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=87&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Entertainment V+" tvg-logo="https://www.visionplus.id/images/repository/642/642-LOGO-l.png" ch-number="88", Celebrities TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=88&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=88&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Entertainment V+" tvg-logo="https://www.visionplus.id/images/repository/705/243705-LOGO-l.png" ch-number="89", Hanacaraka TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=89&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=89&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Entertainment V+" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-l.png" ch-number="92", Rock Entertainment
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=92&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=92&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Movies V+" tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-l.png" ch-number="93", Rock Action
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=93&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=93&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Entertainment V+" tvg-logo="https://www.visionplus.id/images/repository/646/646-LOGO-l.png" ch-number="95", Crime Investigation
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=95&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=95&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Knowledge V+" tvg-logo="https://www.visionplus.id/images/repository/647/647-LOGO-l.png" ch-number="101", Outdoor Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=101&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=101&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Knowledge V+" tvg-logo="https://www.visionplus.id/images/repository/648/648-LOGO-l.png" ch-number="102", BBC Earth
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=102&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=102&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Knowledge V+" tvg-logo="https://www.visionplus.id/images/repository/649/649-LOGO-l.png" ch-number="103", Global Trekker
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=103&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=103&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Knowledge V+" tvg-logo="https://www.visionplus.id/images/repository/650/650-LOGO-l.png" ch-number="104", History
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=104&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=104&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Knowledge V+" tvg-logo="https://www.visionplus.id/images/repository/682/295682-LOGO-l.png" ch-number="105", Love Nature
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=105&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=105&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ News V+" tvg-logo="https://www.visionplus.id/images/repository/660/660-LOGO-l.png" ch-number="130", BBC World news
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=130&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=130&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ News V+" tvg-logo="https://www.visionplus.id/images/repository/365/132365-LOGO-l.png" ch-number="131", CNBC Asia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=131&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=131&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ News V+" tvg-logo="https://www.visionplus.id/images/repository/662/662-LOGO-l.png" ch-number="132", FOX News
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=132&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=132&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ News V+" tvg-logo="https://www.visionplus.id/images/repository/663/663-LOGO-l.png" ch-number="133", Bloomberg
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=133&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=133&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ News V+" tvg-logo="https://www.visionplus.id/images/repository/659/659-LOGO-l.png" ch-number="134", IDX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=134&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=134&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Religion V+" tvg-logo="https://www.visionplus.id/images/repository/664/664-LOGO-l.png" ch-number="137", Muslim TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=137&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=137&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Religion V+" tvg-logo="https://www.visionplus.id/images/repository/665/665-LOGO-l.png" ch-number="138", LIFE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=138&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=138&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Religion V+" tvg-logo="https://www.visionplus.id/images/repository/666/666-LOGO-l.png" ch-number="139", Reformed 21
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=139&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=139&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Music V+" tvg-logo="https://www.visionplus.id/images/repository/667/667-LOGO-l.png" ch-number="142", Music TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=142&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=142&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Music V+" tvg-logo="https://www.visionplus.id/images/repository/668/668-LOGO-l.png" ch-number="143", MTV Live
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=143&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=143&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Music V+" tvg-logo="https://www.visionplus.id/images/repository/669/669-LOGO-l.png" ch-number="144", MTV 90s
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=144&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=144&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ News V+" tvg-logo="https://www.visionplus.id/images/repository/670/670-LOGO-l.png" ch-number="146", DW
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=146&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=146&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ News V+" tvg-logo="https://www.visionplus.id/images/repository/671/671-LOGO-l.png" ch-number="147", France 24
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=147&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=147&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ News V+" tvg-logo="https://www.visionplus.id/images/repository/672/672-LOGO-l.png" ch-number="148", TRT World
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=148&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=148&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ News V+" tvg-logo="https://www.visionplus.id/images/repository/850/850-LOGO-l.png" ch-number="149", Aljazeera
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=149&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=149&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ News V+" tvg-logo="https://www.visionplus.id/images/repository/674/674-LOGO-l.png" ch-number="150", RT
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=150&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=150&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ News V+" tvg-logo="https://www.visionplus.id/images/repository/675/675-LOGO-l.png" ch-number="151", EURONEWS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=151&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=151&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ News V+" tvg-logo="https://www.visionplus.id/images/repository/847/847-LOGO-l.png" ch-number="152", Channel News Asia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=152&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=152&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Religion V+" tvg-logo="https://www.visionplus.id/images/repository/677/677-LOGO-l.png" ch-number="153", Al Quran Al Kareem
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=153&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=153&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Religion V+" tvg-logo="https://www.visionplus.id/images/repository/678/678-LOGO-l.png" ch-number="154", EWTN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=154&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=154&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Knowledge V+" tvg-logo="https://www.visionplus.id/images/repository/679/679-LOGO-l.png" ch-number="155", CGTN Documentary
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=155&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=155&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Knowledge V+" tvg-logo="https://www.visionplus.id/images/repository/680/680-LOGO-l.png" ch-number="156", CGTN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=156&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=156&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Lifestyle V+" tvg-logo="https://www.visionplus.id/images/repository/681/681-LOGO-l.png" ch-number="157", Anhui
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=157&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=157&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Lifestyle V+" tvg-logo="https://www.visionplus.id/images/repository/858/858-LOGO-l.png" ch-number="158", Xing kong TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=158&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=158&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Lifestyle V+" tvg-logo="https://www.visionplus.id/images/repository/683/683-LOGO-l.png" ch-number="159", Shanghai Dragon
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=159&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=159&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Lifestyle V+" tvg-logo="https://www.visionplus.id/images/repository/853/853-LOGO-l.png" ch-number="160", Hunan TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=160&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=160&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Lifestyle V+" tvg-logo="https://www.visionplus.id/images/repository/685/685-LOGO-l.png" ch-number="161", Jiangsu TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=161&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=161&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Lifestyle V+" tvg-logo="https://www.visionplus.id/images/repository/686/686-LOGO-l.png" ch-number="162", NHK
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=162&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=162&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Lifestyle V+" tvg-logo="https://www.visionplus.id/images/repository/687/687-LOGO-l.png" ch-number="163", TV5Monde
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=163&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=163&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ News V+" tvg-logo="https://www.visionplus.id/images/repository/688/688-LOGO-l.png" ch-number="164", Arirang
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=164&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=164&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ News V+" tvg-logo="https://www.visionplus.id/images/repository/689/689-LOGO-l.png" ch-number="165", ABC
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=165&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=165&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Entertainment V+" tvg-logo="https://www.visionplus.id/images/repository/426/173426-LOGO-l.png" ch-number="201", RCTI World
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=201&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=201&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Entertainment V+" tvg-logo="https://www.visionplus.id/images/repository/424/173424-LOGO-l.png" ch-number="202", GTV World
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=202&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=202&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Entertainment V+" tvg-logo="https://www.visionplus.id/images/repository/425/173425-LOGO-l.png" ch-number="203", MNC TV World
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=203&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=203&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ Entertainment V+" tvg-logo="https://www.visionplus.id/images/repository/427/173427-LOGO-l.png" ch-number="204", Drama World
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=204&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=204&type=dash
+
+#EXTINF:-1 tvg-id="Lokal" group-title="ðŸ“ National TV V+" tvg-logo="https://www.visionplus.id/images/repository/817/138817-LOGO-l.png" ch-number="1008", R+ Live
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=1008&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://terabit.web.id/media.mpd?id=1008&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="HBO Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="ðŸ“ HBO Group",HBO
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="ðŸ“ HBO Group",HBO Hits
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/800px-HBO_Family.svg.png" group-title="ðŸ“ HBO Group",HBO Family
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="ðŸ“ HBO Group",HBO Signature
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="ðŸ“ HBO Group",Cinemax
+https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="ðŸ“ National TV V+",INDOSIAR
+http://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SCTV_HD_Logo.svg/2560px-SCTV_HD_Logo.svg.png" group-title="ðŸ“ National TV V+",SCTV
+http://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+================
+
+
+
+
+
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/kids.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="ðŸ“ Kids V+",Mentari TV
+https://starlord.web.id/pidio/index.m3u8?id=8237&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ|User-Agent=VidioPlayer/6.31.6
+
+#EXTINF:-1 tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440" group-title="ðŸ“ Kids V+",Horee
+https://starlord.web.id/pidio/master.m3u8?id=6397&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ|User-Agent=VidioPlayer/6.31.6
+
+#EXTINF:-1 tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440" group-title="ðŸ“ Kids V+",HipHip Horee
+https://starlord.web.id/pidio/master.m3u8?id=7052&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ|User-Agent=VidioPlayer/6.31.6
+
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/nasional.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="ðŸ“ Nasional",Indosiar (bckp)
+#https://starlord.web.id/pidio/index.m3u8?id=205&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ|User-Agent=VidioPlayer/6.31.6
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/8/81/Sindonews.png" group-title="ðŸ“ National TV V+",SindoNews
+https://stream.qtv.my.id/index.m3u8?id=pAuocsHoj3g
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CNN_Indonesia_logo_%282023%29.svg/320px-CNN_Indonesia_logo_%282023%29.svg.png" group-title="ðŸ“ National TV V+",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/k_20230607/K+.png" group-title="ðŸ“ Movies V+",K Plus
+http://qtvid.pw/play1.m3u8?ch=kplus|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="ðŸ“ Movies V+",Kix
+http://qtvid.pw/play1.m3u8?ch=kix|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
+#EXTINF:-1 tvg-logo="http://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png" group-title="ðŸ“ Movies V+",Galaxy
+#EXTVLCOPT:http-referrer=http://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd|User-Agent=mozilla/89 ExoPlayerLib
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
+#EXTINF:-1 group-logo="http://qtvid.pw/glogo/movie3.png" tvg-logo="http://static.visionplus.id/images/channel/0d4e8c1c/3028.png" group-title="ðŸ“ Movies V+",Galaxy Premium
+#EXTVLCOPT:http-referrer=http://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd|User-Agent=mozilla/89 ExoPlayerLib
+
+
+====================================
+
+#EXTINF:-1 group-logo="http://qtvid.pw/glogo/daerah1.png" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/4/47/TVRI_Jambi.png" group-title="ðŸ“ Daerah",TVRI Jambi
+http://qtvid.pw/play1.m3u8?ch=tvrijambi|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://humabetang.com/public/uploads/mobile/icons/FQGCkpJT2i3hPZtXaoDCslAXG5JUbv1jbtjmesL4.png" group-title="ðŸ“ Daerah",Banjar TV
+http://qtvid.pw/play1.m3u8?ch=banjartv|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/BackgroundEraser_20230805_065111191.png/1200px-BackgroundEraser_20230805_065111191.png" group-title="ðŸ“ Daerah",Tegar tv Lampung
+http://qtvid.pw/play1.m3u8?ch=tegartv|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/id/thumb/9/91/TVKU-BChannel.png/800px-TVKU-BChannel.png" group-title="ðŸ“ Daerah",TVKU Semarang
+http://qtvid.pw/play1.m3u8?ch=tvkusemarang|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+
+
+#EXTINF:-1 tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9QoQ3eQgK3JqxadIAzd2QlB5SAvG8x3T0A3Mv72IEvY5Y_GQUN_ljSXCC5UyuwfrKPKaLtgsQRQ8EgbCjqpkVckAXa8OA--EjzoH7SMmpEnZhlDcHv0hpc9lnZTu1rZHXYtfNGfpgW2bZAh602Co6N3Qo6-cz5d3f7JlPZfpFUC6N60IIDA08SvgU/s340/Duta%20TV%20Banjarmasin%20live%20streaming.png" group-title="ðŸ“ Daerah",Duta Tv
+http://qtvid.pw/play1.m3u8?ch=dutatv|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/3/33/TVRI_Jakarta.png" group-title="ðŸ“ Daerah",TVRI Jakarta
+http://qtvid.pw/play1.m3u8?ch=tvrijakarta|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/TVRI_Lampung.png/640px-TVRI_Lampung.png" group-title="ðŸ“ Daerah",TVRI Lampung
+http://qtvid.pw/play1.m3u8?ch=tvrilampung|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/2/2d/TVRI_Maluku.png" group-title="ðŸ“ Daerah",TVRI Maluku
+http://qtvid.pw/play1.m3u8?ch=tvriambon|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/58/TVRI_Bali.png" group-title="ðŸ“ Daerah",TVRI Bali
+http://qtvid.pw/play1.m3u8?ch=tvribali|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/TVRI_Bangka_Belitung.png" group-title="ðŸ“ Daerah",TVRI Bangka Belitung
+http://qtvid.pw/play1.m3u8?ch=tvribabel|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TVRI_Bengkulu.png/800px-TVRI_Bengkulu.png" group-title="ðŸ“ Daerah",TVRI Bengkulu
+http://qtvid.pw/play1.m3u8?ch=tvribengkulu|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TVRI_GORONTALO.svg/640px-TVRI_GORONTALO.svg.png" group-title="ðŸ“ Daerah",TVRI Gorontalo
+http://qtvid.pw/play1.m3u8?ch=tvrigorontalo|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/9/94/TVRI_Jawa_Barat.png" group-title="ðŸ“ Daerah",TVRI Jawa Barat
+http://qtvid.pw/play1.m3u8?ch=tvrijabar|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/TVRI_Jawa_Tengah.png/800px-TVRI_Jawa_Tengah.png" group-title="ðŸ“ Daerah",TVRI Jawa Tengah
+http://qtvid.pw/play1.m3u8?ch=tvrijateng|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/TVRI_Jawa_Timur.png/640px-TVRI_Jawa_Timur.png" group-title="ðŸ“ Daerah",TVRI Jawa Timur
+http://qtvid.pw/play1.m3u8?ch=tvrijatim|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/f/f2/TVRI_Kalimantan_Barat.png" group-title="ðŸ“ Daerah",TVRI Kalbar
+http://qtvid.pw/play1.m3u8?ch=tvrikalbar|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/TVRI_Kalimantan_Selatan.svg/1913px-TVRI_Kalimantan_Selatan.svg.png" group-title="ðŸ“ Daerah",TVRI Kalsel
+http://qtvid.pw/play1.m3u8?ch=tvrikalsel|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/3/3b/TVRI_Kalimantan_Tengah.png" group-title="ðŸ“ Daerah",TVRI Kalteng
+http://qtvid.pw/play1.m3u8?ch=tvrikalteng|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/f/f2/TVRI_Kalimantan_Timur.png" group-title="ðŸ“ Daerah",TVRI Kaltim
+http://qtvid.pw/play1.m3u8?ch=tvrikaltim|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/ACEH.png" group-title="ðŸ“ Daerah",TVRI Aceh
+http://qtvid.pw/play1.m3u8?ch=tvriaceh|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/NTB.png" group-title="ðŸ“ Daerah",TVRI NTB
+http://qtvid.pw/play1.m3u8?ch=tvrintb|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/NTT.png" group-title="ðŸ“ Daerah",TVRI NTT
+http://qtvid.pw/play1.m3u8?ch=tvrintt|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TVRIPapuaLogo2019.svg/1200px-TVRIPapuaLogo2019.svg.png" group-title="ðŸ“ Daerah",TVRI Papua
+http://qtvid.pw/play1.m3u8?ch=tvripapua|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/RIAU.png" group-title="ðŸ“ Daerah",TVRI Riau
+http://qtvid.pw/play1.m3u8?ch=tvririau|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20BARAT.png" group-title="ðŸ“ Daerah",TVRI Sulbar
+http://qtvid.pw/play1.m3u8?ch=tvrisulbar|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20SELATAN.png" group-title="ðŸ“ Daerah",TVRI Sulsel
+http://qtvid.pw/play1.m3u8?ch=tvrisulsel|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20TENGAH.png" group-title="ðŸ“ Daerah",TVRI Sulteng
+http://qtvid.pw/play1.m3u8?ch=tvrisulteng|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20TENGGARA.png" group-title="ðŸ“ Daerah",TVRI Sultra
+http://qtvid.pw/play1.m3u8?ch=tvrisultra|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20UTARA.png" group-title="ðŸ“ Daerah",TVRI Sulut
+http://qtvid.pw/play1.m3u8?ch=tvrisulut|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/TVRI_Sumatera_Barat.png/640px-TVRI_Sumatera_Barat.png" group-title="ðŸ“ Daerah",TVRI Sumbar
+http://qtvid.pw/play1.m3u8?ch=tvrisumbar|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/f/fb/TVRI_Sumatera_Selatan.png" group-title="ðŸ“ Daerah",TVRI Sumsel
+http://qtvid.pw/play1.m3u8?ch=tvrisumsel|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/61/TVRI_Sumatera_Utara.png" group-title="ðŸ“ Daerah",TVRI Sumut
+http://qtvid.pw/play1.m3u8?ch=tvrisumut|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/1/14/TVRI_Yogyakarta.png" group-title="ðŸ“ Daerah",TVRI Yogyakarta
+http://qtvid.pw/play1.m3u8?ch=tvrijogjakarta|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-name="MNCTV HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="ðŸ“ National TV V+",MNCTV R+
+#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
+#EXTVLCOPT:User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://qtvid.pw/play1.m3u8?ch=mnctvrp
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png" group-title="ðŸ“ Knowledge V+",National Geographic
+https://stream.qtv.my.id/index.m3u8?id=9pR85UUh5Co
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="ðŸ“ Knowledge V+",National Geographic Wild
+http://stream.qtv.my.id/index.m3u8?id=TFCqm6nMSlY
+========================================================================================
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 group-logo="https://qtvid.pw/glogo/knowledge.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Discovery_Networks_logo_%283%29.svg/2560px-Discovery_Networks_logo_%283%29.svg.png" group-title="ðŸ“ Knowledge V+",Discovery HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/2560px-Discovery_Asia_logo.svg.png" group-title="ðŸ“ Knowledge V+",Discovery Asia HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="ðŸ“ Knowledge V+",AFN HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/250px-HGTV_2010.svg.png" group-title="ðŸ“ Knowledge V+",HGTV HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Dmaxhd.png" group-title="ðŸ“ Knowledge V+",DMAX HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="ðŸ“ Knowledge V+",Animal Planet HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.sctv.co.id/icon.png" group-title="ðŸ“ National TV V+",SCTV LOW
+https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:-1 tvg-name="Trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="ðŸ“ National TV V+", TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://master.qtv.my.id:8800/stream/vision/trans7/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
+
+#EXTINF:-1 tvg-name="Trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png" group-title="ðŸ“ National TV V+", TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://master.qtv.my.id:8800/stream/vision/transtv/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
